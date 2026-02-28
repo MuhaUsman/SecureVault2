@@ -5,7 +5,7 @@ import json
 import os
 import logging
 from datetime import datetime, timedelta
-from dotenv import load_dotenv
+
 
 # Page configuration (must be first Streamlit command)
 st.set_page_config(
